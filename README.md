@@ -1,2 +1,5 @@
 # documents
-This repository houses all important documents and files that will be on the HCC webpage.
+this subsection of the website contains important documents for the club
+
+[license](./license.html)
+[code of conduct](./code-of-conduct.html)
