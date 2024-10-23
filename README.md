@@ -1,5 +1,6 @@
 # documents
-this subsection of the website contains important documents for the club
+This section of our website contains important documents we use.
 
-[license](./license.html)    
-[code of conduct](./code-of-conduct.html)
+[License](./license.html)    
+[Code of Conduct](./code-of-conduct.html)
+[Weekly Slides](./weekly-slides.html)
